@@ -13,13 +13,13 @@ wget https://raw.githubusercontent.com/gusyud1/Custom-Windows-Server-Image/main/
 Beri permission ke file tersebut
 
 ```jsx
-chmod +x windows-server-autoinstaller.sh
+chmod +x win-install.sh
 ```
 
 Jalankan installernya
 
 ```jsx
-./windows-server-autoinstaller.sh
+./win-install.sh
 ```
 
 ## 2. Run QEMU :
