@@ -7,7 +7,7 @@
 Download file Installernya
 
 ```jsx
-wget https://raw.githubusercontent.com/gusyud1/Custom-Windows-Server-Image/main/win-install.sh
+wget https://raw.githubusercontent.com/YudiansyahAgusSujana/Custom-Windows-Server-Image/main/win-install.sh
 ```
 
 Beri permission ke file tersebut
